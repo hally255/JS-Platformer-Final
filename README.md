@@ -1,1 +1,2 @@
-# JS-Platformer-Final
+# JSPlatformer
+JS Platformer for DIG 3480C

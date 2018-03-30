@@ -1,0 +1,50 @@
+.background {
+  background: #b5b8e0;
+  table-layout: fixed;
+  border-spacing: 0;
+}
+
+.background td {
+  padding: 0;
+}
+
+.lava {
+  background: darkred;
+}
+
+.wall {
+  background: #7f4d27;
+}
+
+.coin {
+  background: yellow;
+  border-radius: 10px;
+}
+
+.enemy {
+  background: white;
+  border-radius: 10px;
+}
+
+.fast {
+  background: blue;
+}
+
+.norm {
+  background: red;
+}
+
+.actor {
+  position: absolute;
+}
+
+.player {
+  background: #d900ff;
+}
+
+.game {
+  overflow: hidden;
+  max-width: 2000px;
+  max-height: 1000px;
+  position: relative;
+}
